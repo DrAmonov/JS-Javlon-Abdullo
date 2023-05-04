@@ -1,0 +1,14 @@
+.box {
+  display: block;
+  margin-left: -250px;
+  background-color: black;
+  height: 500px;
+  width: 200px;
+}
+
+.box1 {
+  display: block;
+  background-color: black;
+  height: 500px;
+  width: 200px;
+}
